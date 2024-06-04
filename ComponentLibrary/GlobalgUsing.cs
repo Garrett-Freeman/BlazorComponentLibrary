@@ -8,13 +8,13 @@ global using Microsoft.AspNetCore.Components;
 global using Microsoft.AspNetCore.Components.Web;
 
 
-global using ComponentLibrary.Models;
-global using ComponentLibrary.Models.DataVisualization;
+global using Blazor.Models;
+global using Blazor.Models.DataVisualization;
 
-global using ComponentLibrary.JSInterop;
-global using ComponentLibrary.JSInterop.DataVisualization;
+global using Blazor.JSInterop;
+global using Blazor.JSInterop.DataVisualization;
 
-global using ComponentLibrary.Components;
-global using ComponentLibrary.Components.DataVisualization;
+global using Blazor.Components;
+global using Blazor.Components.DataVisualization;
 
 

@@ -1,4 +1,4 @@
-﻿namespace ComponentLibrary.Models.DataVisualization
+﻿namespace Blazor.Models.DataVisualization
 { 
     public class StateMapModel
     { 

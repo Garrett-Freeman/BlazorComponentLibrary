@@ -1,5 +1,5 @@
 ﻿
-namespace ComponentLibrary.Components.DataVisualization
+namespace Blazor.Components.DataVisualization
 {
     partial class USAHeatMap
     {

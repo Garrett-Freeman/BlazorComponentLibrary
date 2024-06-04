@@ -1,5 +1,5 @@
 
-namespace ComponentLibrary.JSInterop
+namespace Blazor.JSInterop
 {
     // Template for JSInterop on global.js
 

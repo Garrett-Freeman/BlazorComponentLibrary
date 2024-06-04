@@ -1,5 +1,5 @@
 
-namespace ComponentLibrary.JSInterop.DataVisualization
+namespace Blazor.JSInterop.DataVisualization
 {
     // Template for JSInterop
 
